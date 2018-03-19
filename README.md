@@ -1,6 +1,6 @@
 # rfc-trait-parametric-polymorphism
 
-Planning, scheming and designing of `{-# LANGAUGE ConstraintKinds #-}` for Rust
+Planning, scheming and designing of `{-# LANGUAGE ConstraintKinds #-}` for Rust
 
 If you want to join in and collaborate, you can do any of the following:
 + file an issue with your thoughts
